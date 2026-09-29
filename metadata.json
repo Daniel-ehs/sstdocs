@@ -1,0 +1,6 @@
+{
+  "name": "Vivo SST - Gestão de PGR, LTCAT e AEP",
+  "description": "Sistema corporativo de gestão de SST e documentos regulamentares da Vivo / Telefônica baseado no CONTROLE PGR_2026_V4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
